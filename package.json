@@ -1,5 +1,5 @@
 {
-  "name": "mc-afk-bot",
+  "name": "RomKickerV2",
   "version": "1.0.0",
   "description": "Minecraft AFK bot controlled via Discord",
   "main": "src/index.js",
